@@ -1,0 +1,19 @@
+version: "3.3"
+
+
+services:
+  bench:
+    image: bench
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: vps_bench
+    network_mode: host
+    pid: host
+    env_file: # 请编辑 环境变量
+      - .env
+    volumes:
+      - type: bind
+        source: ./data
+        target: /data
+

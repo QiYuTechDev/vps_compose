@@ -1,0 +1,11 @@
+.idea
+data
+.dockerignore
+.editorconfig
+.env
+.gitignore
+docker-compose.yaml
+Dockerfile
+# entrypoint.sh
+Makefile
+README.md
