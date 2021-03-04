@@ -14,3 +14,9 @@ make run
 # 警告
 
 测试大约会使用 2~6 小时 (请耐心等待)
+
+# 测试 APP Key
+
+```text
+ptNxIA2nb9MoJrqdQyQ3NwwqnZBO2gBapzn9H3mEbeiL0eQAQKzAenNB7zs2D_sC_C9irj3YA-HrmFaOlokyKA
+```
