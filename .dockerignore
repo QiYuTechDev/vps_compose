@@ -1,8 +1,8 @@
 .idea
 data
+env
 .dockerignore
 .editorconfig
-.env
 .gitignore
 docker-compose.yaml
 Dockerfile

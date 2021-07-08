@@ -11,7 +11,8 @@ services:
     network_mode: host
     pid: host
     env_file: # 请编辑 环境变量
-      - .env
+      - env/default.env
+      - env/custom.env
     volumes:
       - type: bind
         source: ./data
