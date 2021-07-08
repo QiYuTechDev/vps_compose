@@ -1,6 +1,6 @@
-FROM ghcr.io/qiyutechdev/vps_bench:v0.4.2
+FROM ghcr.io/qiyutechdev/vps_bench:v0.5.0
 
-ARG VERSION=v0.4.2
+ARG VERSION=v0.5.0
 
 # docker hub 官方
 # qiyutech/vps_bench:$VERSION
